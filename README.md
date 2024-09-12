@@ -61,7 +61,7 @@ Para uma descrição detalhada das funcionalidades e do código, consulte o arqu
 Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou correções.
 
 ## 📧 Contato
-Para perguntas ou feedback, entre em contato pelo e-mail: seu-email@dominio.com.
+Para perguntas ou feedback, entre em contato.
 
 ## 📝 Licença
 Este projeto está licenciado sob a Licença MIT.
